@@ -1,4 +1,4 @@
-*   Elevator Project
+/*   Elevator Project
 *   CSCI 381
 */
 
